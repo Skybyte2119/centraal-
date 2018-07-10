@@ -1,0 +1,105 @@
+#puntajes{
+    color: #FFF;
+    margin: 0px auto;
+    width: 90%;
+    text-align: center;
+    }
+    
+#pMaquina{
+    width: 25%;
+    background: brown;
+    display: inline-block;
+    }
+    
+#pUsuario{
+    width: 25%;
+    background: brown;
+    display: inline-block;
+    }
+    
+#contenedor-juego{
+        text-align: center;
+        width: 60%;
+        margin-left: 4%;
+        border-left: 2px dashed #A52A2A;
+    }
+    
+#contenedor-juego, #contenedor-video{
+        display: inline-block;
+    }
+    
+#contenedor-video{
+        width: 30%;
+    }
+    
+#contenedor{
+        margin: 0px auto;
+        width: 95%;
+    }
+    
+#opcionesUsuario{
+        margin: 0px auto;
+        max-width: 100%;
+        width: 90%;
+    }
+#usuario{
+        background: #22BAEC;
+        margin: 0px auto;
+        max-width: 25%;
+        text-align: center;
+    }
+#maquina{
+     background: rgba(153, 34, 236, 0.32) none repeat scroll 0% 0%;
+    margin: 0px auto;
+    max-width: 25%;
+    text-align: center;
+    }
+
+#cuadroResultados{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: #DDD none repeat scroll 0% 0%;
+}      
+
+#resultados{
+    margin: 0px auto;
+    max-width: 90%;
+    text-align: center;
+    }
+#resultado{
+    margin: 0px auto;
+    max-width: 100%;
+    width: 90%;
+    font-size: 29px;
+    height: 40px;
+    text-align: center;
+    border: 2px dashed brown;
+    }
+    
+#explicacionesResultado {
+    margin: 20px auto;
+    max-width: 100%;
+    width: 90%;
+    font-size: 15;
+    height: 20px;
+    text-align: center;
+    }
+    
+#botones{
+    border: 0px none;
+    background: brown none repeat scroll 0% 0%;
+    color: white;
+    margin-top: 10px;
+    }
+    
+.img:hover{
+    opacity:.6;
+    filter:alpha(opacity=60);
+    }
+    
+#botonReiniciar{
+    background: brown;
+    border: none;
+    color: white;
+    margin: 20px;
+    }
